@@ -1,0 +1,72 @@
+peak;name;query;category;curiosity;status
+1;5-methylene-2-Norbornene;5-methylene-2-Norbornene;Hidrocarboneto cíclico;"Estrutura bicíclica com grupo metileno exocíclico; a identificação deve ser confirmada com o espectro e o índice de retenção.";revisar
+2;Benzene, 1,3-dimethyl-;m-Xylene;Hidrocarboneto aromático;"O meta-xileno é um dos três isômeros posicionais do dimetilbenzeno; solventes e materiais de laboratório podem contribuir com sinais de fundo.";revisar
+3;o-Xylene;o-Xylene;Hidrocarboneto aromático;O orto-xileno difere dos demais xilenos apenas pela posição relativa dos dois grupos metila.;consulta
+4;p-Xylene;p-Xylene;Hidrocarboneto aromático;O para-xileno é um isômero posicional do xileno, com dois grupos metila em posições opostas do anel aromático.;consulta
+5;l-Limonene;Limonene;Monoterpeno;"O limoneno é um monoterpeno associado ao aroma cítrico; o rótulo “l-” requer atenção à identificação estereoquímica.";revisar
+6;1,8-Cineole;Eucalyptol;Monoterpeno oxigenado;O 1,8-cineol, também chamado eucaliptol, é um éter cíclico com aroma frequentemente descrito como eucaliptado.;revisar
+7;cis-Sabinene hydrate (IPP vs. OH);cis-sabinene hydrate;Monoterpeno oxigenado;"Sabineno hidratado é um álcool monoterpênico; existem diferentes formas estereoisoméricas.";revisar
+8;4H-Pyran-4-one, 2,3-dihydro-3,5-dihydroxy-6-methyl-;4H-Pyran-4-one, 2,3-dihydro-3,5-dihydroxy-6-methyl-;Heterociclo oxigenado;A estrutura é um derivado de pirona, grupo que inclui compostos associados a produtos de transformação de açúcares.;consulta
+9;neo-Isopulegol;neo-Isopulegol;Monoterpeno oxigenado;O neo-isopulegol é relacionado a outros isômeros de monoterpenóis com configuração espacial distinta.;revisar
+10;ISOPULEGOL 1;Isopulegol;Monoterpeno oxigenado;"O isopulegol contém uma função álcool; “1” pode ser apenas um rótulo de biblioteca e não um nome químico inequívoco.";revisar
+11;α-Terpineol;alpha-Terpineol;Monoterpeno oxigenado;O α-terpineol está associado a notas olfativas florais e pode ocorrer em óleos essenciais.;revisar
+12;3-OXO-1-CYCLOHEXENYL 2-METHYLPROPIONAT;3-oxo-1-cyclohexenyl 2-methylpropionate;Éster / composto oxigenado;"O nome sugere uma ligação éster; conferir a correspondência estrutural exata da biblioteca.";revisar
+13;Citronellol;Citronellol;Monoterpeno oxigenado;Citronelol é um álcool monoterpênico frequentemente associado a aromas florais e cítricos.;consulta
+14;5-Hydroxy-2,2,6,6-tetramethyl-4-cyclohexene-1,3-dione;5-Hydroxy-2,2,6,6-tetramethyl-4-cyclohexene-1,3-dione;Dicetona oxigenada;"O nome descreve funções carbonila e hidroxila no anel; requer verificação estrutural rigorosa.";revisar
+15;Isobutyl benzoate;Isobutyl benzoate;Éster aromático;"Éster do ácido benzoico; ésteres aromáticos são frequentemente estudados como componentes de fragrâncias.";consulta
+16;Methyl decanoate;Methyl decanoate;Éster de ácido graxo;O decanoato de metila é um éster metílico de cadeia alifática, de interesse em estudos de perfis lipídicos.;consulta
+17;8-hydroxy-neo-Menthol;8-hydroxy-neo-Menthol;Monoterpeno oxigenado;"Derivado hidroxilado do mentol; a estereoquímica é relevante para distinguir candidatos de biblioteca.";revisar
+18;Eugenol;Eugenol;Fenilpropanoide;Eugenol é um composto aromático com grupo fenólico, conhecido por sua associação com o aroma de cravo.;consulta
+19;(E)-Caryophyllene;beta-Caryophyllene;Sesquiterpeno;β-Cariofileno é um sesquiterpeno bicíclico frequentemente descrito com notas amadeiradas e especiadas.;revisar
+20;(E)-β-Farnesene;trans-beta-Farnesene;Sesquiterpeno;Farnesenos são hidrocarbonetos sesquiterpênicos acíclicos com diferentes isômeros geométricos.;revisar
+21;1,3-Cyclohexanediol, 4,6-dimethyl-2-nitro-, diacetate (ester), (1.alpha.,2.beta.,3.alpha.,4.beta.,6.beta.)-;1,3-Cyclohexanediol, 4,6-dimethyl-2-nitro-, diacetate (ester), (1.alpha.,2.beta.,3.alpha.,4.beta.,6.beta.)-;Éster / oxigenado;"O nome sugere um derivado esterificado; verificar a estrutura, sobretudo em atribuições estereoisoméricas.";revisar
+22;α-Humulene;alpha-Humulene;Sesquiterpeno;α-Humuleno é um sesquiterpeno cíclico relacionado estruturalmente ao cariofileno.;revisar
+23;[(1S,2S,3R,4S,6R)-3-hydroxy-4,6-dimethyl-2-nitrocyclohexyl] acetate;[(1S,2S,3R,4S,6R)-3-hydroxy-4,6-dimethyl-2-nitrocyclohexyl] acetate;Éster / oxigenado;"O nome sugere um derivado esterificado; verificar a estrutura, sobretudo em atribuições estereoisoméricas.";revisar
+24;LINALOOL;Linalool;Monoterpeno oxigenado;"Linalol é um álcool monoterpênico frequentemente associado a notas florais; possui enantiômeros.";revisar
+25;(E,E)-α-Farnesene;alpha-Farnesene;Sesquiterpeno;O α-farneseno apresenta mais de uma configuração geométrica possível nas ligações duplas.;revisar
+26;β-Bisabolene;beta-Bisabolene;Sesquiterpeno;Bisabolenos constituem uma família de hidrocarbonetos sesquiterpênicos encontrados em misturas voláteis de plantas.;revisar
+27;(E)-1-Methyl-4-(6-methylhept-5-en-2-ylidene)cyclohex-1-ene;(E)-1-Methyl-4-(6-methylhept-5-en-2-ylidene)cyclohex-1-ene;Identificação a revisar;O nome foi transcrito da figura enviada. A identidade estrutural precisa ser confirmada antes da interpretação.;revisar
+28;γ-Cuprenene;gamma-Cuprenene;Sesquiterpeno;"O nome de biblioteca deve ser verificado; isômeros sesquiterpênicos frequentemente produzem espectros EI semelhantes.";revisar
+29;lilac alcohol epoxide;lilac alcohol epoxide;Monoterpeno oxigenado;"O termo epóxido indica um anel oxirano; a posição da função pode distinguir isômeros.";revisar
+30;(E)-Nerolidol;trans-Nerolidol;Sesquiterpeno oxigenado;"O (E)-nerolidol é um álcool sesquiterpênico acíclico com notas florais e amadeiradas; aparece como pico dominante neste cromatograma.";revisar
+31;6-OCTEN-3-OL, 2,3,7-TRIMETHYL;6-OCTEN-3-OL, 2,3,7-TRIMETHYL;Monoterpeno oxigenado;"O nome sistemático indica um álcool terpenoide; a estereoquímica não está especificada.";revisar
+32;Benzenemethanol, 3-hydroxy-5-methoxy-;Benzenemethanol, 3-hydroxy-5-methoxy-;Composto oxigenado;"A presença de oxigênio sugere polaridade mais elevada do que a dos hidrocarbonetos relacionados; confirmar a estrutura exata.";consulta
+33;Caryophyllene oxide;Caryophyllene oxide;Sesquiterpeno oxigenado;"O óxido de cariofileno contém um anel epóxido; pode ser observado em perfis de óleos essenciais.";consulta
+34;Viridiflorol;Viridiflorol;Sesquiterpeno oxigenado;Viridiflorol é um álcool sesquiterpênico tricíclico, frequentemente estudado em perfis aromáticos vegetais.;consulta
+35;Ledol;Ledol;Sesquiterpeno oxigenado;"Ledol é um álcool sesquiterpênico; apresenta relações estruturais com outros compostos oxigenados vegetais.";consulta
+36;Humulene epoxide II;Humulene epoxide II;Sesquiterpeno oxigenado;O epóxido de humuleno deriva do esqueleto do humuleno com incorporação de oxigênio.;revisar
+37;(E)-Sesquilavandulol;Sesquilavandulol;Sesquiterpeno oxigenado;"O nome sugere um sesquiterpenol; a geometria da ligação dupla requer verificação.";revisar
+38;ISOBUTYRIC ACID: 1-ETHYL-1,5-DIMETHYL-4-HEXENYL ESTER;ISOBUTYRIC ACID: 1-ETHYL-1,5-DIMETHYL-4-HEXENYL ESTER;Éster / oxigenado;"O nome sugere um derivado esterificado; verificar a estrutura, sobretudo em atribuições estereoisoméricas.";revisar
+39;Caryophylla-4(12),8(13)-dien-5α-ol;Caryophylla-4(12),8(13)-dien-5α-ol;Composto oxigenado;"A presença de oxigênio sugere polaridade mais elevada do que a dos hidrocarbonetos relacionados; confirmar a estrutura exata.";revisar
+40;6-hydroxy-Isobornyl isobutanoate;6-hydroxy-Isobornyl isobutanoate;Composto oxigenado;"A presença de oxigênio sugere polaridade mais elevada do que a dos hidrocarbonetos relacionados; confirmar a estrutura exata.";revisar
+41;Nerolidol 1;Nerolidol;Sesquiterpeno oxigenado;"“Nerolidol 1” provavelmente reflete a convenção da biblioteca; não implica a identificação inequívoca de um estereoisômero.";revisar
+42;Gymnomitrol;Gymnomitrol;Sesquiterpeno oxigenado;"O gymnomitrol é um sesquiterpenol; confirmar a identidade por espectro e índices de retenção.";consulta
+43;neo-Intermedeol;neo-Intermedeol;Sesquiterpeno oxigenado;"O intermedeol pertence à família dos sesquiterpenóis; diferentes isômeros podem ter índices de retenção próximos.";revisar
+44;14-hydroxy-9-epi-(E)-Caryophyllene;14-hydroxy-9-epi-(E)-Caryophyllene;Sesquiterpeno oxigenado;"Derivado hidroxilado do cariofileno; a posição da hidroxila e a estereoquímica são cruciais.";revisar
+45;epi-α-Bisabolol;alpha-Bisabolol;Sesquiterpeno oxigenado;Epi-α-bisabolol indica estereoquímica distinta daquela do α-bisabolol.;revisar
+46;α-Bisabolol;alpha-Bisabolol;Sesquiterpeno oxigenado;α-Bisabolol é um álcool sesquiterpênico frequentemente associado à camomila.;revisar
+47;(2Z,6Z)-Farnesal;(2Z,6Z)-Farnesal;Sesquiterpeno oxigenado;"Farnesal é um aldeído terpenoide; diferentes configurações das duplas alteram a identidade molecular.";revisar
+48;Junicedranol;Junicedranol;Composto oxigenado;"A presença de oxigênio sugere polaridade mais elevada do que a dos hidrocarbonetos relacionados; confirmar a estrutura exata.";consulta
+49;(Z)-α-trans-Bergamotol;(Z)-α-trans-Bergamotol;Composto oxigenado;"A presença de oxigênio sugere polaridade mais elevada do que a dos hidrocarbonetos relacionados; confirmar a estrutura exata.";revisar
+50;(2E,6Z)-Farnesol;(2E,6Z)-Farnesol;Sesquiterpeno oxigenado;"Farnesol é um álcool sesquiterpênico acíclico presente em matrizes aromáticas; existe em vários isômeros.";revisar
+51;Cedroxyde;Cedroxyde;Composto oxigenado;"A presença de oxigênio sugere polaridade mais elevada do que a dos hidrocarbonetos relacionados; confirmar a estrutura exata.";revisar
+52;(2E,6E)-Farnesol;(2E,6E)-Farnesol;Sesquiterpeno oxigenado;Outra atribuição configuracional do farnesol, que não deve ser automaticamente agrupada com os demais isômeros.;revisar
+53;WOODGRIS (13-OXABICYCLO[10.1.0]TRIDECA-4,8-DIENE, 1,5,9-TRIMETHYL);Woodgris;Composto cíclico oxigenado;O nome comercial/bibliográfico “Woodgris” deve ser correlacionado a uma estrutura inequívoca antes de atribuir propriedades.;revisar
+54;(Z)-Lanceol;(Z)-Lanceol;Composto oxigenado;"A presença de oxigênio sugere polaridade mais elevada do que a dos hidrocarbonetos relacionados; confirmar a estrutura exata.";revisar
+55;Pluchidiol;Pluchidiol;Composto oxigenado;"A presença de oxigênio sugere polaridade mais elevada do que a dos hidrocarbonetos relacionados; confirmar a estrutura exata.";revisar
+56;Eudesm-11-en-4α, 6α-diol;Eudesm-11-en-4α, 6α-diol;Composto oxigenado;"A presença de oxigênio sugere polaridade mais elevada do que a dos hidrocarbonetos relacionados; confirmar a estrutura exata.";revisar
+57;Cyclopentadecanolide;Cyclopentadecanolide;Lactona macrocíclica;Ciclopentadecanolídeo é uma lactona macrocíclica frequentemente discutida em química de fragrâncias.;consulta
+58;(2E,6E)-Farnesyl acetate;(2E,6E)-Farnesyl acetate;Éster terpênico;O acetato de farnesila combina uma cadeia sesquiterpênica e o grupo funcional éster.;consulta
+59;3,7,11,15-Tetramethyl-2-hexadecen-1-ol;Phytol;Álcool diterpênico;"A cadeia tetrametilada pode corresponder ao fitol, um álcool diterpênico associado a clorofilas; verificar a dupla e a configuração.";revisar
+60;Oplopanoyl acetate;Oplopanoyl acetate;Éster / oxigenado;"O nome sugere um derivado esterificado; verificar a estrutura, sobretudo em atribuições estereoisoméricas.";revisar
+61;(5Z,9E)-Farnesyl acetone;(5Z,9E)-Farnesyl acetone;Cetona terpênica;"Farnesil acetona é uma cetona terpenoide; a configuração geométrica deve ser mantida na pesquisa da estrutura.";revisar
+62;(5E,9E)-Farnesyl acetone;(5E,9E)-Farnesyl acetone;Cetona terpênica;"Outro isômero geométrico de farnesil acetona; não usar automaticamente a estrutura do pico 61.";revisar
+63;Hexadecanoic acid;Palmitic acid;Ácido graxo saturado;O ácido hexadecanoico também é chamado ácido palmítico e contém 16 carbonos.;revisar
+64;n-Octadecanol;1-Octadecanol;Álcool graxo;O octadecan-1-ol é um álcool alifático de cadeia longa com 18 carbonos.;revisar
+65;Linoleic acid;Linoleic acid;Ácido graxo insaturado;O ácido linoleico é um ácido graxo poli-insaturado da família ômega-6.;consulta
+66;Hexanedioic acid, bis(2-ethylhexyl) ester;Diethylhexyl adipate;Diéster alifático;"Éster do ácido adípico, conhecido como adipato de bis(2-etilhexila); também pode ter origem externa à amostra, por exemplo em materiais plásticos.";revisar
+67;Ethyl stearate, 9,12-diepoxy;Ethyl stearate, 9,12-diepoxy;Éster de ácido graxo oxigenado;"O nome sugere um derivado epoxidado de éster graxo; conferir posição e estereoquímica dos epóxidos.";revisar
+68;Hexadecanoic acid, n-octyl ester;Octyl palmitate;Éster de ácido graxo;Hexadecanoato de octila é um éster alifático de cadeia longa.;revisar
+69;2-Propen-1-one, 1-(2,6-dihydroxy-4-methoxyphenyl)-3-phenyl-, (E)-;2-Propen-1-one, 1-(2,6-dihydroxy-4-methoxyphenyl)-3-phenyl-, (E)-;Fenólico conjugado;"O nome sugere um derivado chalcona com funções fenólicas; correspondência estrutural deve ser verificada.";revisar
+70;Vitamin E;alpha-Tocopherol;Vitamina lipossolúvel;"A vitamina E reúne tocóis e tocotrienóis; a identificação específica de α-tocoferol não decorre apenas do rótulo “Vitamin E”.";revisar
+71;(S)-5-Allyl-1,3-dimethoxy-2-((1-(3,4,5-trimethoxyphenyl)propan-2-yl)oxy)benzene;(S)-5-Allyl-1,3-dimethoxy-2-((1-(3,4,5-trimethoxyphenyl)propan-2-yl)oxy)benzene;Composto aromático oxigenado;"O nome descreve dois anéis aromáticos metoxilados e uma ligação éter; é necessária confirmação estrutural.";revisar
